@@ -1,3 +1,5 @@
+[![Spring Boot Java Code Coverage](https://github.com/danielso2007/spring-boot-java-code-coverage/actions/workflows/maven.yml/badge.svg)](https://github.com/danielso2007/spring-boot-java-code-coverage/actions/workflows/maven.yml)
+
 # Biblioteca de Cobertura de Código Java - JaCoCo
 
 # Visão Geral
