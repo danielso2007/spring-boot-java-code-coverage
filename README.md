@@ -245,4 +245,4 @@ Use com moderação essa exclusão. Verifique se realmente o pacote, ou classe, 
 
 # Projeto de Exemplo
 
-Para verificar a aplicação de exemplo, acesse o repositório [aqui](). Caso queira rodar o projeto, execute  `./mvnw spring-boot:run`.
+Para verificar a aplicação de exemplo, acesse o repositório [aqui](https://github.com/danielso2007/spring-boot-java-code-coverage). Caso queira rodar o projeto, execute  `./mvnw spring-boot:run`.
